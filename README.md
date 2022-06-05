@@ -1,17 +1,34 @@
-# pr2_mirror_wall_app
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Tesla Cars</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Tesla_WebApp" 
+**Seen All Types of Tesla Cars using this app.**
+
+Tesla         | 
+:-------------------------:|
+![ss1](https://user-images.githubusercontent.com/77672442/172059903-308b657c-87f0-4d8b-ae79-48ee34b402e3.jpg)
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
